@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @tomiev.
+- 👀 I love working on fun web dev projects and tools.
+- 🌱 I’m currently learning javascript, HTML/CSS, and Ruby on Rails.
+- 📫 How to reach me: email me at evansmtodd@gmail.com 🙂
