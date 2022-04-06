@@ -1,4 +1,11 @@
-- 👋 Hi, I’m @tomiev.
-- 👀 I love working on fun web dev projects and tools.
-- 🌱 I’m currently learning javascript, HTML/CSS, and Ruby on Rails.
-- 📫 How to reach me: email me at evansmtodd@gmail.com 🙂
+Web developer from Melbourne, AU 🙂
+
+- 🔭 I’m currently working on my portfolio! Coming soon at toddevans.dev
+
+- 🌱 I’m currently learning Javascript & React
+
+- 👨‍💻 All of my projects will be available soon at toddevans.dev
+
+- 💬 Ask me about Ruby on Rails, React, Javascript
+
+- 📫 How to reach me: evansmtodd@gmail.com
