@@ -2,7 +2,7 @@ Hi, I'm Todd! I'm a software developer from Melbourne, Australia 🙂
 
 - 🔭 I’m currently working on my portfolio!
 
-- 🌱 I’m currently learning React and Gatsby.
+- 🌱 I’m currently learning React.
 
 - 👨‍💻 All of my projects will be available soon at toddevans.dev 
 
