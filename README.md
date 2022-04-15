@@ -1,8 +1,8 @@
 Hi, I'm Todd! I'm a software developer from Melbourne, Australia 🙂
 
-- 🔭 I’m currently working on my portfolio!
+- 🔭 I’m currently working on my portfolio.
 
-- 🌱 I’m currently learning React.
+- 🌱 I’m currently learning JavaScript and React.
 
 - 👨‍💻 All of my projects will be available soon at toddevans.dev 
 
