@@ -5,6 +5,8 @@
 
 - 👯 I’m looking to collaborate on **React projects**
 
+- 🤝 Connect with me at **linkedin.com/in/todd-evans-te**
+
 - 👨‍💻 View my portfolio at [www.toddevans.dev](www.toddevans.dev)
 
 - 💬 Ask me about **Rails and React**
