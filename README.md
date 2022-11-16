@@ -7,7 +7,7 @@
 
 - 👨‍💻 View my portfolio at [www.toddevans.dev](www.toddevans.dev)
 
-- 💬 Ask me about **Rails and React**
+- 💬 Ask me about **React and CSS**
 
 - 📫 How to reach me **evansmtodd@gmail.com**
 
