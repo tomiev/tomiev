@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **React projects**
 
-- 👨‍💻 View my portfolio at [www.toddevans.dev](www.toddevans.dev)
+- 👨‍💻 View my portfolio at [toddevans.dev](http://www.toddevans.dev)
 
 - 💬 Ask me about **React and CSS**
 
