@@ -1,17 +1,13 @@
 <h1 align="center">Hi 👋, I'm Todd</h1>
 <h3 align="center">A passionate web developer from Melbourne</h3>
 
-- 🌱 I’m currently learning **React and GraphQL**
+- 🌱 I’m currently learning **.NET and PostgreSQL**
 
-- 👯 I’m looking to collaborate on **React projects**
+- 👯 I’m looking to collaborate on **.NET or JavaScript projects**
 
 - 👨‍💻 View my portfolio at [toddevans.dev](http://www.toddevans.dev)
 
-- 💬 Ask me about **React and CSS**
-
 - 📫 How to reach me **evansmtodd@gmail.com**
-
-- ⚡ Fun fact **I've broken my nose playing basketball three times 👃💥**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
