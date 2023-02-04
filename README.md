@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Todd</h1>
-<h3 align="center">A passionate web developer from Melbourne</h3>
+<h3 align="center">I'm a software developer from Melbourne</h3>
 
 - 🌱 I’m currently learning **.NET and PostgreSQL**
 
