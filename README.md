@@ -2,7 +2,7 @@
 <h3 align="center">I'm a software developer from Melbourne</h3>
 
 - 🌱 I’m currently working with photoSentinel using **.NET, JavaScript, HTML/CSS & PostgreSQL**
-- 📫 How to reach me **evansmtodd@gmail.com**
+- 📫 You can reach me on LinkedIn (linked below).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
