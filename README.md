@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Todd</h1>
 <h3 align="center">I'm a software developer from Melbourne</h3>
 
-- 🌱 I’m currently working with **.NET, JavaScript, HTML/CSS & PostgreSQL**
+- 🌱 I’m currently working with photoSentinel using **.NET, JavaScript, HTML/CSS & PostgreSQL**
 
 - 👯 I’m looking to collaborate on **.NET or JavaScript projects**
 
