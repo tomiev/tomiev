@@ -1,11 +1,10 @@
 <h1 align="center">Hi 👋, I'm Todd</h1>
 <h3 align="center">I'm a software developer from Melbourne</h3>
 
-- 🌱 I’m currently learning **.NET and PostgreSQL**
+- 🌱 I’m currently working with **.NET, JavaScript, HTML/CSS & PostgreSQL**
 
 - 👯 I’m looking to collaborate on **.NET or JavaScript projects**
 
-- 👨‍💻 View my portfolio at [toddevans.dev](http://www.toddevans.dev)
 
 - 📫 How to reach me **evansmtodd@gmail.com**
 
